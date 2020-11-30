@@ -30,7 +30,7 @@ spring:
   datasource:
     url: "jdbc:postgresql://localhost/music"
     driver-class-name: org.postgresql.Driver
-    username: postgres
+    username: 
     password: 
   jpa:
     properties:
